@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/17nshul/Leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/17nshul/Leetcode_submissions/tree/master/0031-next-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/17nshul/Leetcode_submissions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
