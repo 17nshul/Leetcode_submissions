@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/17nshul/Leetcode_submissions/tree/master/0031-next-permutation) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/17nshul/Leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/17nshul/Leetcode_submissions/tree/master/2035-count-sub-islands) |
 ## Two Pointers
 |  |
@@ -42,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/17nshul/Leetcode_submissions/tree/master/2035-count-sub-islands) |
+## Binary Search
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/17nshul/Leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Simulation
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/17nshul/Leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/17nshul/Leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
