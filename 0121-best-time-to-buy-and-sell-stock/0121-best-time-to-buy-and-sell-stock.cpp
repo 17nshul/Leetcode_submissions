@@ -5,6 +5,8 @@ public:
        // moving from l to r, if a smaller number is seen update buy, then check for
        //max profit until now
        //similar to kadane
+       ios::sync_with_stdio(0);
+       cin.tie(0);
        int n= prices.size();
        int buy=prices[0];
        int profit=0;
