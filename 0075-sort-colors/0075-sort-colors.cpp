@@ -1,6 +1,8 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
         int n = nums.size();
         //in-place
         //starting from left if encountered 2 then swap it with right most element
