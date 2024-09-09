@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/17nshul/Leetcode_submissions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/17nshul/Leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/17nshul/Leetcode_submissions/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/17nshul/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0906-walking-robot-simulation](https://github.com/17nshul/Leetcode_submissions/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/17nshul/Leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/17nshul/Leetcode_submissions/tree/master/2035-count-sub-islands) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/17nshul/Leetcode_submissions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/17nshul/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
 | ------- |
