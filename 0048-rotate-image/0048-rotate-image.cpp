@@ -1,6 +1,8 @@
 class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {
+    ios::sync_with_stdio(0);
+    cin.tie(0);
         //in-place
         //0,0 0,1 0,2       2,0 1,0 0,0
         //1,0 1,1 1,2       2,1 1,1 0,1
