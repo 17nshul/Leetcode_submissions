@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/17nshul/Leetcode_submissions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/17nshul/Leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/17nshul/Leetcode_submissions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/17nshul/Leetcode_submissions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/17nshul/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0906-walking-robot-simulation](https://github.com/17nshul/Leetcode_submissions/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/17nshul/Leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/17nshul/Leetcode_submissions/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/17nshul/Leetcode_submissions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/17nshul/Leetcode_submissions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
