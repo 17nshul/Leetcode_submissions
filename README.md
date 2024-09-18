@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/17nshul/Leetcode_submissions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/17nshul/Leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/17nshul/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0179-largest-number](https://github.com/17nshul/Leetcode_submissions/tree/master/0179-largest-number) |
 | [0906-walking-robot-simulation](https://github.com/17nshul/Leetcode_submissions/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/17nshul/Leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/17nshul/Leetcode_submissions/tree/master/2035-count-sub-islands) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/17nshul/Leetcode_submissions/tree/master/0179-largest-number) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/17nshul/Leetcode_submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Hash Table
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/17nshul/Leetcode_submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/17nshul/Leetcode_submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/17nshul/Leetcode_submissions/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/17nshul/Leetcode_submissions/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/17nshul/Leetcode_submissions/tree/master/0078-subsets) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/17nshul/Leetcode_submissions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
