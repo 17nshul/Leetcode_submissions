@@ -15,16 +15,15 @@ cout.tie(0);
         for(int i=0;i<n;i++){
             if(nums[i]==mx){
                 currw++;
+                mw = max(mw,currw);
             }else if(nums[i]>mx){
                 mx=nums[i];
                 currw=1;
                 mw=1;
             }else{
-                mw = max(mw,currw);
                 currw=0;
             }
         }
-        mw = max(mw,currw);
         return mw;
     }
 };
