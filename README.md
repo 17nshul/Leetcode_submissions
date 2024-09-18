@@ -81,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/17nshul/Leetcode_submissions/tree/master/0179-largest-number) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/17nshul/Leetcode_submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/17nshul/Leetcode_submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Hash Table
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/17nshul/Leetcode_submissions/tree/master/0906-walking-robot-simulation) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/17nshul/Leetcode_submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/17nshul/Leetcode_submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/17nshul/Leetcode_submissions/tree/master/0179-largest-number) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/17nshul/Leetcode_submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
