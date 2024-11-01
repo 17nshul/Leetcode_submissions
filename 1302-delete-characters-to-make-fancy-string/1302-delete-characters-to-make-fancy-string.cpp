@@ -4,19 +4,16 @@ public:
         ios::sync_with_stdio(0);
         cin.tie(0);
         cout.tie(0);
-        int n = s.length();
-        if (n < 3) return s;
-
-        string res = "";
-        res += s[0];
         
-        for(int i=1;i<n;++i){
-            if(res.length()>=2 && res[res.length()-1]==s[i] && res[res.length()-2]==s[i]){
-                continue;
+        if (s.size() < 3) return s;
+
+        int j = 2;
+        for (int i = 2; i < s.size(); ++i) {
+            if (s[i] != s[j - 1] || s[i] != s[j - 2]) {
+                s[j++] = s[i];
             }
-            res+=s[i];
         }
-        cout<<res;
-        return res;
+        s.resize(j);
+        return s;
     }
 };
