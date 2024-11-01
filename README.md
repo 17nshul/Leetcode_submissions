@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/17nshul/Leetcode_submissions/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/17nshul/Leetcode_submissions/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/17nshul/Leetcode_submissions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/17nshul/Leetcode_submissions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/17nshul/Leetcode_submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Hash Table
 |  |
