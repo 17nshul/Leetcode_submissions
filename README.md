@@ -12,18 +12,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/17nshul/Leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/17nshul/Leetcode_submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/17nshul/Leetcode_submissions/tree/master/0975-range-sum-of-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/17nshul/Leetcode_submissions/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/17nshul/Leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/17nshul/Leetcode_submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/17nshul/Leetcode_submissions/tree/master/0975-range-sum-of-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/17nshul/Leetcode_submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/17nshul/Leetcode_submissions/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/17nshul/Leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/17nshul/Leetcode_submissions/tree/master/0975-range-sum-of-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/17nshul/Leetcode_submissions/tree/master/1484-linked-list-in-binary-tree) |
 ## Array
 |  |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/17nshul/Leetcode_submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/17nshul/Leetcode_submissions/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
