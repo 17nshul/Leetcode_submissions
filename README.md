@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/17nshul/Leetcode_submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/17nshul/Leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/17nshul/Leetcode_submissions/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/17nshul/Leetcode_submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/17nshul/Leetcode_submissions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/17nshul/Leetcode_submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/17nshul/Leetcode_submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Hash Table
 |  |
