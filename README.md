@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/17nshul/Leetcode_submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/17nshul/Leetcode_submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/17nshul/Leetcode_submissions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/17nshul/Leetcode_submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/17nshul/Leetcode_submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/17nshul/Leetcode_submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2465-shifting-letters-ii](https://github.com/17nshul/Leetcode_submissions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/17nshul/Leetcode_submissions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/17nshul/Leetcode_submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,4 +173,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/17nshul/Leetcode_submissions/tree/master/0975-range-sum-of-bst) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/17nshul/Leetcode_submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/17nshul/Leetcode_submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/17nshul/Leetcode_submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/17nshul/Leetcode_submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
