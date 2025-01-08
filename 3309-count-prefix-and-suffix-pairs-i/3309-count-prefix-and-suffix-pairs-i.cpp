@@ -1,21 +1,30 @@
 class Solution {
 public:
-    bool isPrefixAndSuffix(const string& str1, const string& str2) {
-        int n1 = str1.size(), n2 = str2.size();
-        if (n1 > n2)
-            return false;
-        return str2.substr(0, n1) == str1 && str2.substr(n2 - n1) == str1;
+
+    bool isPreSuf(string s1,string s2){
+        int l1 = s1.size();
+        int l2 = s2.size();
+        cout<<s1<<" "<<s2<<endl;
+        // bool p = false;
+        // bool s = false;
+        for(int i=0;i<l1;++i){
+            if(s1[i]!=s2[i])return false;
+        }
+        // p=true;
+        for(int i=0,j=l2-l1;i<l1;++i,++j){
+            if(s1[i]!=s2[j])return false;
+        }
+        return true;
     }
 
     int countPrefixSuffixPairs(vector<string>& words) {
-        int n = words.size(), count = 0;
-        for (int i = 0; i < n; ++i) {
-            for (int j = i + 1; j < n; ++j) {
-                if (isPrefixAndSuffix(words[i], words[j])) {
-                    ++count;
-                }
+        int n = words.size();
+        int ans=0;
+        for(int i=0;i<n;++i){
+            for(int j=i+1;j<n;++j){
+                if(isPreSuf(words[i],words[j]))ans++;
             }
         }
-        return count;
+        return ans;
     }
 };
