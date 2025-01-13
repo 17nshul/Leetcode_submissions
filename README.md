@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/17nshul/Leetcode_submissions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/17nshul/Leetcode_submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/17nshul/Leetcode_submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/17nshul/Leetcode_submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/17nshul/Leetcode_submissions/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/17nshul/Leetcode_submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/17nshul/Leetcode_submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/17nshul/Leetcode_submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/17nshul/Leetcode_submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/17nshul/Leetcode_submissions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/17nshul/Leetcode_submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Brainteaser
 |  |
 | ------- |
