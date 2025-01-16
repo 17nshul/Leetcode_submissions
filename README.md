@@ -139,11 +139,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/17nshul/Leetcode_submissions/tree/master/0023-merge-k-sorted-lists) |
 | [1484-linked-list-in-binary-tree](https://github.com/17nshul/Leetcode_submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/17nshul/Leetcode_submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/17nshul/Leetcode_submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/17nshul/Leetcode_submissions/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -212,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/17nshul/Leetcode_submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/17nshul/Leetcode_submissions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/17nshul/Leetcode_submissions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
