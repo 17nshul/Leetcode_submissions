@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/17nshul/Leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/17nshul/Leetcode_submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/17nshul/Leetcode_submissions/tree/master/0975-range-sum-of-bst) |
+| [1396-count-servers-that-communicate](https://github.com/17nshul/Leetcode_submissions/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/17nshul/Leetcode_submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/17nshul/Leetcode_submissions/tree/master/2035-count-sub-islands) |
 ## Binary Tree
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/17nshul/Leetcode_submissions/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/17nshul/Leetcode_submissions/tree/master/0906-walking-robot-simulation) |
 | [0952-word-subsets](https://github.com/17nshul/Leetcode_submissions/tree/master/0952-word-subsets) |
+| [1396-count-servers-that-communicate](https://github.com/17nshul/Leetcode_submissions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/17nshul/Leetcode_submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/17nshul/Leetcode_submissions/tree/master/1876-map-of-highest-peak) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/17nshul/Leetcode_submissions/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/17nshul/Leetcode_submissions/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/17nshul/Leetcode_submissions/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/17nshul/Leetcode_submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/17nshul/Leetcode_submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/17nshul/Leetcode_submissions/tree/master/1876-map-of-highest-peak) |
@@ -81,12 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/17nshul/Leetcode_submissions/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/17nshul/Leetcode_submissions/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/17nshul/Leetcode_submissions/tree/master/0048-rotate-image) |
 | [0407-trapping-rain-water-ii](https://github.com/17nshul/Leetcode_submissions/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/17nshul/Leetcode_submissions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/17nshul/Leetcode_submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/17nshul/Leetcode_submissions/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/17nshul/Leetcode_submissions/tree/master/2035-count-sub-islands) |
@@ -201,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/17nshul/Leetcode_submissions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/17nshul/Leetcode_submissions/tree/master/1396-count-servers-that-communicate) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/17nshul/Leetcode_submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Brainteaser
 |  |
