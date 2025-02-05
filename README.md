@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/17nshul/Leetcode_submissions/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/17nshul/Leetcode_submissions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/17nshul/Leetcode_submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/17nshul/Leetcode_submissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/17nshul/Leetcode_submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/17nshul/Leetcode_submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/17nshul/Leetcode_submissions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/17nshul/Leetcode_submissions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/17nshul/Leetcode_submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/17nshul/Leetcode_submissions/tree/master/0952-word-subsets) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/17nshul/Leetcode_submissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/17nshul/Leetcode_submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/17nshul/Leetcode_submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/17nshul/Leetcode_submissions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/17nshul/Leetcode_submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1396-count-servers-that-communicate](https://github.com/17nshul/Leetcode_submissions/tree/master/1396-count-servers-that-communicate) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/17nshul/Leetcode_submissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/17nshul/Leetcode_submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Brainteaser
 |  |
