@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/17nshul/Leetcode_submissions/tree/master/2155-find-missing-observations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/17nshul/Leetcode_submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/17nshul/Leetcode_submissions/tree/master/2358-number-of-ways-to-split-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/17nshul/Leetcode_submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/17nshul/Leetcode_submissions/tree/master/2465-shifting-letters-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/17nshul/Leetcode_submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/17nshul/Leetcode_submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/17nshul/Leetcode_submissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/17nshul/Leetcode_submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2434-design-a-number-container-system](https://github.com/17nshul/Leetcode_submissions/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/17nshul/Leetcode_submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/17nshul/Leetcode_submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/17nshul/Leetcode_submissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/17nshul/Leetcode_submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/17nshul/Leetcode_submissions/tree/master/0539-minimum-time-difference) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/17nshul/Leetcode_submissions/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2155-find-missing-observations](https://github.com/17nshul/Leetcode_submissions/tree/master/2155-find-missing-observations) |
+| [2448-count-number-of-bad-pairs](https://github.com/17nshul/Leetcode_submissions/tree/master/2448-count-number-of-bad-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/17nshul/Leetcode_submissions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/17nshul/Leetcode_submissions/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/17nshul/Leetcode_submissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/17nshul/Leetcode_submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/17nshul/Leetcode_submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Brainteaser
 |  |
