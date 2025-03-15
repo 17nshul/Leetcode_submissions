@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/17nshul/Leetcode_submissions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/17nshul/Leetcode_submissions/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/17nshul/Leetcode_submissions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/17nshul/Leetcode_submissions/tree/master/0048-rotate-image) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/17nshul/Leetcode_submissions/tree/master/0001-two-sum) |
 | [0906-walking-robot-simulation](https://github.com/17nshul/Leetcode_submissions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/17nshul/Leetcode_submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/17nshul/Leetcode_submissions/tree/master/0952-word-subsets) |
