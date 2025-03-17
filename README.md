@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/17nshul/Leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/17nshul/Leetcode_submissions/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/17nshul/Leetcode_submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/17nshul/Leetcode_submissions/tree/master/0975-range-sum-of-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/17nshul/Leetcode_submissions/tree/master/1484-linked-list-in-binary-tree) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/17nshul/Leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/17nshul/Leetcode_submissions/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/17nshul/Leetcode_submissions/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/17nshul/Leetcode_submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0854-making-a-large-island](https://github.com/17nshul/Leetcode_submissions/tree/master/0854-making-a-large-island) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/17nshul/Leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/17nshul/Leetcode_submissions/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/17nshul/Leetcode_submissions/tree/master/0975-range-sum-of-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/17nshul/Leetcode_submissions/tree/master/1484-linked-list-in-binary-tree) |
 ## Array
@@ -267,11 +270,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/17nshul/Leetcode_submissions/tree/master/0572-subtree-of-another-tree) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/17nshul/Leetcode_submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/17nshul/Leetcode_submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/17nshul/Leetcode_submissions/tree/master/0572-subtree-of-another-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/17nshul/Leetcode_submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Heap (Priority Queue)
 |  |
