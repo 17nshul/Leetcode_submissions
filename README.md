@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/17nshul/Leetcode_submissions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/17nshul/Leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0539-minimum-time-difference](https://github.com/17nshul/Leetcode_submissions/tree/master/0539-minimum-time-difference) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/17nshul/Leetcode_submissions/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2155-find-missing-observations](https://github.com/17nshul/Leetcode_submissions/tree/master/2155-find-missing-observations) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/17nshul/Leetcode_submissions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/17nshul/Leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/17nshul/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/17nshul/Leetcode_submissions/tree/master/0198-house-robber) |
 ## Sorting
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/17nshul/Leetcode_submissions/tree/master/0021-merge-two-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/17nshul/Leetcode_submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
