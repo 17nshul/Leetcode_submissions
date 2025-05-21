@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/17nshul/Leetcode_submissions/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/17nshul/Leetcode_submissions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/17nshul/Leetcode_submissions/tree/master/1396-count-servers-that-communicate) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/17nshul/Leetcode_submissions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/17nshul/Leetcode_submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/17nshul/Leetcode_submissions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/17nshul/Leetcode_submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/17nshul/Leetcode_submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/17nshul/Leetcode_submissions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/17nshul/Leetcode_submissions/tree/master/1396-count-servers-that-communicate) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/17nshul/Leetcode_submissions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/17nshul/Leetcode_submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/17nshul/Leetcode_submissions/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/17nshul/Leetcode_submissions/tree/master/2035-count-sub-islands) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/17nshul/Leetcode_submissions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/17nshul/Leetcode_submissions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/17nshul/Leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/17nshul/Leetcode_submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/17nshul/Leetcode_submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
